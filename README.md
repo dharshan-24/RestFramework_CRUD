@@ -36,17 +36,24 @@ A powerful **Student Management REST API** built using **Python, Django, Django 
 # **📂 Project Structure**
 
 ```bash
-RestCrud/
+Rest_Crud/
 │── Crud/
 │   │── settings.py
 │   │── urls.py
-│── Rest_Crud/
+|   │── asgi.py
+|   │── wsgi.py
+|   │── __init__.py
+│── RestCrud/
 │   │── models.py
 │   │── serializers.py
 │   │── views.py
 │   │── urls.py
+|   │── admin.py
+|   │── __init__.py
+|   │── apps.py
+|   │── test.py
 │── manage.py
-│── requirements.txt
+
 ```
 
 ---
