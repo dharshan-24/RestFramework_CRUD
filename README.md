@@ -55,9 +55,9 @@ RestCrud/
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| POST | /student/create/ | Create student |
-| GET | /student/list/ | Get all students |
-| GET | /student/detail/<id>/ | Get single student |
+| POST | /student/add/ | Create student |
+| GET | /student/all/ | Get all students |
+| GET | /student/all/<id>/ | Get single student |
 | PUT | /student/update/<id>/ | Update student |
 | DELETE | /student/delete/<id>/ | Delete student |
 
