@@ -50,10 +50,9 @@ Rest_Crud/
 │── manage.py
 
 
-
 ---
 
-## ✨ Installation
+## Installation
  
 Clone Repository
 git clone https://github.com/your-username/your-repository-name.git
@@ -88,6 +87,7 @@ DATABASES = {
         'PORT': '3306',
     }
 }
+
 Run Migrations
 python manage.py makemigrations
 python manage.py migrate
@@ -119,3 +119,12 @@ Database connectivity with MySQL
 API testing using Postman
 Error handling in REST APIs
 GitHub project management
+
+
+## Post Data In 
+
+
+
+
+
+
