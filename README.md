@@ -244,24 +244,6 @@ This project helped me understand:
 
 ---
 
-# **🤝 Contributing**
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
-
-# **📜 License**
-
-This project is open-source and available under the **MIT License**.
-
----
-
-# **⭐ Support**
-
-If you like this project, please **Star ⭐ this repository**.
-
----
-
 # CRUD Operation Post Method 
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 112300" src="https://github.com/user-attachments/assets/c491ff52-213d-47b1-8f8c-d867ccef5e49" />
