@@ -51,9 +51,8 @@ Rest_Crud/
 
 
 ---
+## **📥 Installation Guide**
 
-## Installation
- 
 Clone Repository
 git clone https://github.com/your-username/your-repository-name.git
 Move to Project Folder
@@ -63,68 +62,6 @@ python -m venv env
 Activate Virtual Environment
 
 ---
-
-Windows
-
-env\Scripts\activate
-
-Mac/Linux
-
-source env/bin/activate
-Install Dependencies
-pip install -r requirements.txt
-Configure Database
-
-## Update your settings.py:
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'your_database_name',
-        'USER': 'your_username',
-        'PASSWORD': 'your_password',
-        'HOST': 'localhost',
-        'PORT': '3306',
-    }
-}
-
-Run Migrations
-python manage.py makemigrations
-python manage.py migrate
-Start Server
-python manage.py runserver
-🧪 Testing API
-
-Use Postman to test API endpoints.
-
-Example:
-
-http://127.0.0.1:8000/student/list/
-📸 Sample JSON Request
-{
-    "name": "Dharshan",
-    "age": 22,
-    "course": "Python Django",
-    "email": "dharshan@example.com",
-    "mobile": "9876543210"
-}
-## 🎯 Learning Outcomes
-
-This project helped me understand:
-
-Django REST Framework API development
-CRUD operations implementation
-Serializer validation
-Database connectivity with MySQL
-API testing using Postman
-Error handling in REST APIs
-GitHub project management
-
-
-## Post Data In 
-
-
-
-
+ 
 
 
