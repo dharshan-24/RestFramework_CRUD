@@ -157,7 +157,7 @@ http://127.0.0.1:8000/student/list/
 ## **➕ Create Student (POST)**
 
 ```bash
-http://127.0.0.1:8000/student/create/
+http://127.0.0.1:8000/student/add/
 ```
 
 **Request Body**
@@ -176,7 +176,7 @@ http://127.0.0.1:8000/student/create/
 ## **📋 Get All Students (GET)**
 
 ```bash
-http://127.0.0.1:8000/student/list/
+http://127.0.0.1:8000/student/all/
 ```
 
 ---
@@ -184,7 +184,7 @@ http://127.0.0.1:8000/student/list/
 ## **🔍 Get Student By ID (GET)**
 
 ```bash
-http://127.0.0.1:8000/student/detail/1/
+http://127.0.0.1:8000/student/all/1/
 ```
 
 ---
